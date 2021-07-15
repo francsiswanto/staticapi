@@ -1,27 +1,18 @@
-Template
-========
+Static Web API
+==============
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+This package is a colletion of Laravel Controllers which is can be used as a concept of Static Web API.
+Static Web API according to my concept is:
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
 
 Features
 --------
 
-- Be awesome
-- Make things faster
+- Look at every controller
 
 Installation
 ------------
 
-Install $project by running:
-
-    install project
 
 Contribute
 ----------
@@ -38,4 +29,4 @@ We have a mailing list located at: project@google-groups.com
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the MIT license.
